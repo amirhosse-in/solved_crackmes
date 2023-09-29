@@ -12,7 +12,7 @@ int main(int argc,char **argv)
 {
   int difference;
   
-                        
+
   if (argc != 3) {
     printf("Usage : %s <your name here> <license key here>\n",*argv);
                     /* WARNING: Subroutine does not return */
@@ -38,3 +38,5 @@ int main(int argc,char **argv)
 }
 
 ```
+
+It appears that the only valid username and password are `"NomanProdhan"` and `"KS-LICENSE-KEY-2021-REV-2"`.
